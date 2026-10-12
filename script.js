@@ -125,7 +125,7 @@ resetBtn.addEventListener("click", () => {
   mainCard.style.display = "flex";
 
   headerTag.textContent = "LOVE METER";
-  mainTitle.textContent = "상대방은 나를 얼마나 사랑할까?";
+  mainTitle.textContent = "나연이는 소진언니를 얼마나 사랑할까?";
   mainSubtitle.textContent = "먼저 얼마나 사랑할지 예상해 봐!";
   loveGuess.value = "";
   loveGuess.disabled = false;
